@@ -1,0 +1,1 @@
+This is Lauryn Gitahi's first git project
